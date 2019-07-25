@@ -18,8 +18,8 @@ def return_a_value
 
 end
 
-def last_evaluated_value
-
+def last_evaluated_value = "Nice"
+return last_evaluated_value
 end
 
 def pizza_party(toppings = "cheese")
